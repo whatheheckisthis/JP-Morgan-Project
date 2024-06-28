@@ -7,7 +7,7 @@ This project is part of the J.P. Morgan Chase & Co virtual experience program, a
 
 JPMorgan Chase invests $10 billion annually to enable technologists to develop diverse solutions in areas such as strategic technology initiatives, big data, mobile, electronic payments, machine learning, cybersecurity, enterprise cloud development, and other cutting-edge technologies.
 
-### My Responsibilities:
+### Objectives:
 
 1. **Interface with a Stock Price Data Feed:** Set up and analyze stock price data.
 2. **Use JPMorgan Chase Frameworks and Tools:** Implement the Perspective open-source code for data visualization.
