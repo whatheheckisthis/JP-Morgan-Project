@@ -26,4 +26,3 @@ JPMorgan Chase invests $10 billion annually to enable technologists to develop d
 
 ---
 
-Feel free to adjust as needed!
