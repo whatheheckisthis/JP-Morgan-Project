@@ -1,5 +1,4 @@
 # JP-Morgan-Project
-Certainly! Here’s a revised version:
 
 ---
 
