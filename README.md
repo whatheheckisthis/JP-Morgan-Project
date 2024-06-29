@@ -1,8 +1,7 @@
 # JP-Morgan-Project
-[Certficate](https://tinyurl.com/58kks2dd)
-
 [Course Outline](https://www.theforage.com/simulations/jpmorgan/cybersecurity-0acj)
 ---
+[Certficate](https://tinyurl.com/58kks2dd)
 
 This project is part of the J.P. Morgan Chase & Co virtual experience program, aimed at giving students a glimpse into the role of a software engineer at JPMorgan Chase, while enhancing their technology skills.
 
