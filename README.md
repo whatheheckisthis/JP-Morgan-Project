@@ -12,22 +12,10 @@ JPMorgan Chase invests $10 billion annually to enable technologists to develop d
 2. **Use JPMorgan Chase Frameworks and Tools:** Implement the Perspective open-source code for data visualization.
 3. **Display Data Visually for Traders:** Use Perspective to create a chart for the trader’s dashboard.
 
-### Technologies:
-- Python
-- Git
-- React
-- TypeScript
-
-### Skills:
-- Basic Programming
-- Web Applications
-- Financial Analysis
-- Technical Communication
-
 ---
 <ol>
 	<li>Please clone this repository to start the task</li>
-	<li>Adjust the getRatio, getDataPoint and main functions</li>
+	<li>Adjust the getRatio, getDataPoint, and main functions</li>
 	<li>Bonus: Pass all unit tests and add more to cover edge cases</li>
 	<li>Upload a git patch file as the submission to this task</li>
 	
@@ -35,7 +23,7 @@ JPMorgan Chase invests $10 billion annually to enable technologists to develop d
 
 <h2 id="installation" >Set up / Installation</h2>
 
-<p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m1_v6.pdf">follow the setup here</a></p>
+<p> To get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m1_v6.pdf">follow the setup here</a></p>
 <p><b>Note:</b>This is the Python 3 version of the JPM 1 exercise. The Python 2.7 version is in <a href="https://github.com/insidesherpa/JPMC-tech-task-1">this other repo</a></p>
 
 <h2>How to Run</h2>
@@ -69,6 +57,5 @@ Query:
 <p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m1_v4a.pdf">follow this guide</a>.</p>
 <p>To do the bonus task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/client_test_m1_v1a.pdf">read this</a>.</p>
 
-<h2>How to submit your work</h2>
-<p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME">JPM Module 1 Page</a>.</p>
+
 
