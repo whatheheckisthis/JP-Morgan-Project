@@ -1,5 +1,5 @@
 # JP-Morgan-Project
-[Certficate Of Achievement](https://tinyurl.com/58kks2dd)
+[Certficate](https://tinyurl.com/58kks2dd)
 
 [Course Outline](https://www.theforage.com/simulations/jpmorgan/cybersecurity-0acj)
 ---
